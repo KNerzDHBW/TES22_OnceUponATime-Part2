@@ -18,6 +18,10 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   
+   std::cout << "Also ging der Koenig und die Koeniging zu einem Verwandten"
+            << std::endl
+            << std::endl;
 
   /*
    * Zweites Kapitel
