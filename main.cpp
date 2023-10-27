@@ -23,7 +23,7 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
    
-   std::cout << "Also ging der Koenig und die Koeniging zu einem Verwandten"
+   std::cout << "Also ging der Koenig und die Koenigin zu einem Verwandten"
             << std::endl
             << std::endl;
 
