@@ -71,7 +71,7 @@ int main() {
 
   std::cout
       << "Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten "
-         "zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes."
+         "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
