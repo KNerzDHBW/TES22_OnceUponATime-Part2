@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main() {
   /*
    * Buchtitel
@@ -18,7 +18,7 @@ int main() {
             << std::endl
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
-   
+    cout << "Dieser Verwandte war sein Bruder, der ihm sehr ähnlich sah.";
    std::cout << "Also ging der Koenig und die Koeniging zu einem Verwandten"
             << std::endl
             << std::endl;
