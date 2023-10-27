@@ -58,18 +58,23 @@ int main() {
   /*
    * Viertes Kapitel
    */
-  std::cout << std::endl
-            << "Der Prinz und der Frosch" << std::endl
-            << std::endl;
-  std::cout << "Vor langer Zeit gab es einmal einen magischen See, der war so "
-               "besonders, dass er nur von denjenigen gefunden werden konnte, "
-               "von denen der See sich finden lassen wollte."
-            << std::endl
-            << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
-                          // unter diesem Satz
+std::cout << std::endl
+          << "Der Prinz und der Frosch" << std::endl
+          << std::endl;
+std::cout << "Vor langer Zeit gab es einmal einen magischen See, der war so "
+              "besonders, dass er nur von denjenigen gefunden werden konnte, "
+              "von denen der See sich finden lassen wollte."
+          << std::endl
+          << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
+                        // unter diesem Satz
 
-   std::cout<< "Ein Prinz wanderte eines Tages in der Nähe des Sees."
-            <<std::endl;
+  std::cout << "Ein Prinz wanderte eines Tages in der Nähe des Sees. Dieser Prinz"
+               "hatte Hunger und entschied sich aufgrund seiner französischen Eltern"
+               "den Frosch zu essen. Und wenn Sie gestorben sind liegen Sie noch"
+               "heute unter der Erde."
+            << std::endl;
+
+   
 
   /*
    * Fünftes Kapitel
