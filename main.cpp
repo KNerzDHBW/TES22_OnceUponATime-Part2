@@ -72,4 +72,6 @@ int main() {
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
   std::cout << "Eines Tages kam ein hungriger Jonas vorbei." << std::endl;
+
+  std::cout << "In seiner Verzweiflung roch er den verführerischen Duft der Bratwusst" << std::endl;
 }
