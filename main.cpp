@@ -23,7 +23,7 @@ int main() {
    * Zweites Kapitel
    */
   std::cout << std::endl
-            << "Die sieben Zwerge und der Drache" << std::endl
+            << "Die sieben Zwerge und der Drachen" << std::endl
             << std::endl;
 
   std::cout
