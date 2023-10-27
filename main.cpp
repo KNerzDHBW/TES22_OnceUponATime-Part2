@@ -23,6 +23,8 @@ int main() {
             << std::endl
             << std::endl;
 
+   std::cout << "Deswegen haben sie sich entschieden, einfach abzuhauen." << std::endl;
+
   /*
    * Zweites Kapitel
    */
