@@ -69,7 +69,7 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
 
-   std::cout<< "Ein Prinz wanderte eines Tages in der nähe des Sees."
+   std::cout<< "Ein Prinz wanderte eines Tages in der Nähe des Sees."
             <<std::endl;
 
   /*
