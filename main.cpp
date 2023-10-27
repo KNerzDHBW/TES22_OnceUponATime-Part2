@@ -12,18 +12,26 @@ int main() {
    */
   std::cout << std::endl << "Der verlorene Schatz" << std::endl << std::endl;
 
-  std::cout << "Es lebte einmal in einem weit entfernten Land ein Koenig und "
-               "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
-               "mehr Koenig und Koenigin sein zu muessen."
-            << std::endl
+  std::cout << "Vor langer Zeit, in einem fernen Königreich, gab es einen König"
+               "und eine Königin, die sich sehnlichst wünschten, keine König und"
+               "Königin mehr zu sein."
+            << std::endl; 
+  std::cout << "Eines Tages, als sie wieder einmal ueber ihre Zukunft "
+               "nachdachten, kam ein alter Mann zu ihnen und sagte: \"Ich kann "
+               "euch euren Wunsch erfuellen, aber ihr muesst mir dafuer einen "
+               "Schatz bringen.\""
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   std::cout << "Sie wollten ihren Traum verwirklichen und Techno DJs werden." << std::endl;
+   std::cout << "Also ging der Koenig und die Koeniging zu einem Verwandten"
+            << std::endl
+            << std::endl;
 
   /*
    * Zweites Kapitel
    */
   std::cout << std::endl
-            << "Die sieben Zwerge und der Drache" << std::endl
+            << "Die sieben Zwerge und der Drachen" << std::endl
             << std::endl;
 
   std::cout
@@ -32,7 +40,11 @@ int main() {
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
-
+  
+  std::cout
+      << "Rotkaepchen lief eines Tages zu ihrer Großmutter."
+      << std::endl;
+  
   /*
    * Drittes Kapitel
    */
@@ -56,7 +68,7 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
 
-   std::cout<< "Ein Prinz wanderte eines Tages in der nähe des Sees."
+   std::cout<< "Ein Prinz wanderte eines Tages in der Nähe des Sees."
             <<std::endl;
 
   /*
@@ -71,7 +83,8 @@ int main() {
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
-  std::cout << "Eines Tages kam ein hungriger Jonas vorbei." << std::endl;
 
-  std::cout << "In seiner Verzweiflung roch er den verführerischen Duft der Bratwusst" << std::endl;
+  std::cout << "Eines Tages kam ein sehr hungriger und schlecht gelaunter Jonas vorbei." << std::endl;
+
+  std::cout << "In seiner Verzweiflung roch er den verführerischen Duft der Bratwurst" << std::endl;
 }
