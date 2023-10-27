@@ -32,6 +32,9 @@ int main() {
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
+   std::cout << std::endl
+            << "Was ganz alleine war und auf der Suche nach einem Abenteuer ist." << std::endl
+            << std::endl;
 
   /*
    * Drittes Kapitel
