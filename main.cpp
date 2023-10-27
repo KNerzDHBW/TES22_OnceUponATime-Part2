@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 int main() {
   /*
    * Buchtitel
@@ -22,6 +22,7 @@ int main() {
                "Schatz bringen.\""
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+    cout << "Dieser Verwandte war sein Bruder, der ihm sehr ähnlich sah.";
 
    std::cout << "Mal wieder hat nichts geklappt"
             << std::endl
@@ -42,7 +43,7 @@ int main() {
 
   std::cout
       << "Vor langer langer Zeit lebte einst ein kleines Maedchen, das alle "
-         "Rotkaeppchen nannten, denn es trug immer ein feuerrotes Maentelchen."
+         "Rotkaeppchen nannten, denn es trug nie ein feuerrotes Maentelchen."
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
@@ -89,7 +90,7 @@ int main() {
 
   std::cout
       << "Es waren einmal eine Maus, ein Vogel und ein Bratwurst, die lebten "
-         "zusammen in einer kleinen Huette am Rande eines verwunschenen Waldes."
+         "zusammen in einer kleinen Huette am Rande eines verwunschenen Schrottplatzes."
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
