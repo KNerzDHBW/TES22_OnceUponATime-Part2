@@ -19,6 +19,8 @@ int main() {
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
 
+   std::cout << "Deswegen haben sie sich entschieden, einfach abzuhauen." << std::endl;
+
   /*
    * Zweites Kapitel
    */
