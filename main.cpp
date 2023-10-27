@@ -94,6 +94,14 @@ int main() {
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz
 
+   std::cout
+      << "Dieser war sehr,sehr düster, kalt und Angsteinflössend."
+      << std::endl
+      << std::endl; // Zweiter Satz, neue Sätze in diesem Kapitel erst
+                    // unter diesem Satz und wo ist der Fehler                 
+}
+
+
   std::cout << "Eines Tages kam ein sehr hungriger und schlecht gelaunter Jonas vorbei." << std::endl;
 
   std::cout << "In seiner Verzweiflung roch er den verführerischen Duft der Bratwurst" << std::endl;
@@ -103,3 +111,4 @@ int main() {
       << std::endl; // Zweiter Satz, neue Sätze in diesem Kapitel erst
                     // unter diesem Satz und wo ist der Fehler                 
 }
+
