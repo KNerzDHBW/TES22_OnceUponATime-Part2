@@ -15,9 +15,19 @@ int main() {
   std::cout << "Es lebte einmal in einem weit entfernten Land ein Koenig und "
                "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
                "mehr Koenig und Koenigin sein zu muessen."
-            << std::endl
+            << std::endl; 
+  std::cout << "Eines Tages, als sie wieder einmal ueber ihre Zukunft "
+               "nachdachten, kam ein alter Mann zu ihnen und sagte: \"Ich kann "
+               "euch euren Wunsch erfuellen, aber ihr muesst mir dafuer einen "
+               "Schatz bringen.\""
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+   
+   std::cout << "Also ging der Koenig und die Koeniging zu einem Verwandten"
+            << std::endl
+            << std::endl;
+
+   std::cout << "Deswegen haben sie sich entschieden, einfach abzuhauen." << std::endl;
 
   /*
    * Zweites Kapitel
@@ -32,6 +42,9 @@ int main() {
       << std::endl
       << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst unter
                     // diesem Satz
+   std::cout << std::endl
+            << "Was ganz alleine war und auf der Suche nach einem Abenteuer ist." << std::endl
+            << std::endl;
 
   /*
    * Drittes Kapitel
