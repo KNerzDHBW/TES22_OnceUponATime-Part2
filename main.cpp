@@ -12,9 +12,9 @@ int main() {
    */
   std::cout << std::endl << "Der verlorene Schatz" << std::endl << std::endl;
 
-  std::cout << "Es lebte einmal in einem weit entfernten Land ein Koenig und "
-               "eine Koenigin, die wuenschten sich nichts sehnlicher als nicht "
-               "mehr Koenig und Koenigin sein zu muessen."
+  std::cout << "Vor langer Zeit, in einem fernen Königreich, gab es einen König"
+               "und eine Königin, die sich sehnlichst wünschten, keine König und"
+               "Königin mehr zu sein."
             << std::endl; 
   std::cout << "Eines Tages, als sie wieder einmal ueber ihre Zukunft "
                "nachdachten, kam ein alter Mann zu ihnen und sagte: \"Ich kann "
