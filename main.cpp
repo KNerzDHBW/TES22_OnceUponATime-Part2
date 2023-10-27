@@ -22,7 +22,13 @@ int main() {
                "Schatz bringen.\""
             << std::endl; // erster Satz, neue Sätze in diesem Kapitel erst
                           // unter diesem Satz
+
+   std::cout << "Mal wieder hat nichts geklappt"
+            << std::endl
+            << std::endl;
+            
    std::cout << "Sie wollten ihren Traum verwirklichen und Techno DJs werden." << std::endl;
+
    std::cout << "Also ging der Koenig und die Koeniging zu einem Verwandten"
             << std::endl
             << std::endl;
