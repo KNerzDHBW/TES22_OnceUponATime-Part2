@@ -76,7 +76,7 @@ int main() {
   std::cout << "Ein Prinz wanderte eines Tages in der Nähe des Sees. Dieser Prinz"
                "hatte Hunger und entschied sich aufgrund seiner französischen Eltern"
                "den Frosch zu essen. Und wenn Sie gestorben sind liegen Sie noch"
-               "heute unter der Erde."
+               "heute unter der Erde. UwU"
             << std::endl
             << std::endl;
 
